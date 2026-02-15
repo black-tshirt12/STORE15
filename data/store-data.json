@@ -277,5 +277,6 @@
     "phoneNumber": "+212679460301",
     "position": "right",
     "defaultMessage": "Hi Black T-Shirt, I'd like to order a T-shirt."
-  }
+  },
+  "ordersApiUrl": "https://store-15-g7eg.vercel.app/api/orders"
 }

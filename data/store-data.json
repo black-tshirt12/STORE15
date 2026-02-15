@@ -137,6 +137,28 @@
   "orders": [
     {
       "fullName": "mohmed",
+      "phone": "0679460301",
+      "city": "moracch",
+      "notes": "9848",
+      "items": [
+        {
+          "id": "slim-fit-M-Deep Black",
+          "productId": "slim-fit",
+          "name": "Black Tee / Slim",
+          "size": "M",
+          "color": "Deep Black",
+          "quantity": 1,
+          "price": 200,
+          "image": "https://images.pexels.com/photos/7671165/pexels-photo-7671165.jpeg?auto=compress&cs=tinysrgb&w=800"
+        }
+      ],
+      "total": 200,
+      "date": "2026-02-15T14:43:34.733Z",
+      "id": "ord-1771166616211",
+      "status": "pending"
+    },
+    {
+      "fullName": "mohmed",
       "phone": "+212679460301",
       "city": "moracch",
       "notes": "",
